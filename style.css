@@ -1,0 +1,42 @@
+.nav{
+    border: 100%;
+    display: flex;
+    margin: 1rem;
+    text-align: center;
+}
+.gen{
+    background-color: rgb(131, 134, 131);
+}
+.nav ul li{
+  display: inline; 
+  margin: 3rem;
+  text-align: center;
+
+}
+.button{
+    background-color: rgb(18, 124, 89);
+}
+.collection1{
+    display: flex;
+    gap: 50px;
+}
+.collection2{
+    display: flex;
+    gap: 40px;
+}
+.collection3{
+    display: flex;
+    gap: 40px;
+}
+.center{
+    text-align: center;
+    color: green;
+}
+.footer{
+    display: flex;
+    gap: 50px;
+    background-color: rgb(148, 161, 157);
+}
+.footer ul li{
+   list-style-type: none;
+}
